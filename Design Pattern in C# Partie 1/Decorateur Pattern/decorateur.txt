@@ -1,0 +1,27 @@
+﻿
+Definition
+GoF Definition: "Attach additional responsibilities to an object dynamically.
+Decorators provide a flexible alternative to sub classing for extending functionality"
+
+
+Example:
+We will modify the original Album class to incorporate the Christmas tree on it. This
+should not be the best approach. There is a better approach to this. We can still keep
+the Album class unchanged and add the Christmas tree to it. Everything happens in
+the runtimeâ€¦ that is the cool part of it.
+
+
+
+
+Note
+In the real world scenario we can use Decorator Pattern to calculate Taxes as
+decorators for the Item Price. The Tax, Extra Tax etc. can be wrapped as decorators
+around the original item price.
+
+
+Summary
+Using decorator we can add dynamic responsibilities to an object in runtime. This
+provides us the flexibility of creating an instance of decorators on an as-needed
+basis. This would provide a real advantage in scenarios where the additional
+responsibility increases the use of memory. The attachment contains the example
+we have discussed.

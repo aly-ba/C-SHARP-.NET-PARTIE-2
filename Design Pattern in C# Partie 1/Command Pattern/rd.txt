@@ -1,0 +1,9 @@
+﻿In this chapter I am trying to show the usage of Command Design Pattern. This is a
+popular pattern and it is making use of good object oriented constructs and
+simplifies the logic of enabling Undo functionality in our applications.
+
+------------------------------------------------------------------------------------
+The pattern says that all the operations should be converted into objects, so that we
+log the objects. In future we can call Do() or Undo() operations on the object. The
+object should be smart enough to store the request parameters inside it to support
+the Do and Undo operations.
