@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="OrderedTest1" storage="f:\ps_ondemand\asserts and testing lifecycle\demo\2- asserts and testing lifecycle\2- asserts\allaboutasserts\simpleassertmethods\orderedtest1.orderedtest" id="a75bd975-1697-4024-b882-b96cc8155d35" continueAfterFailure="true" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Execution id="58ca2b90-7140-4d61-b94d-6e566f52bed3" />
+  <TestLinks>
+    <TestLink id="dec2a30a-13fb-7aa3-5a62-9d903566bade" name="IsSqrtTest_1" storage="bin\debug\assertmethods.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="50736542-d920-c8bf-5095-72ff632e8b25" name="IsStringSame_2" storage="bin\debug\assertmethods.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="9a357636-413c-1f25-8067-4677696fdc86" name="StringSameTest_3" storage="bin\debug\assertmethods.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="64dc1088-862c-dcff-615b-a000be7e39fb" name="DeltaTest_4" storage="bin\debug\assertmethods.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="1b6db1cf-25a6-1935-4c95-1e58d15b3bc4" name="IntegersSameTest_5" storage="bin\debug\assertmethods.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
