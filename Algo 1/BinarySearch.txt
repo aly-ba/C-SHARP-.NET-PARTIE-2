@@ -1,0 +1,25 @@
+return int rank(int a, int [] b)
+ entier i=0;
+ entier f =a.taille-1
+ pendant que i<= f
+   entier mid =i+(f-i)/2;
+   Si a <b[mid]
+      f=mid-1;
+   si a >b [mid]
+     f=ùid+1;
+
+   sinon
+fin pendnat que 
+retourn -1
+
+
+
+
+
+
+
+
+
+
+
+
